@@ -1,0 +1,1 @@
+Algorytmy wyszukiwania: bisekcyjnego, liniowego i rekurencyjnego

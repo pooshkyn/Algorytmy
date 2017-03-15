@@ -1,0 +1,1 @@
+Aglorytm sortuj¹cy studentów po nr indeksu na tych którzy zaliczyli i nie (Flaga polska).

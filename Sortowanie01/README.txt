@@ -1,0 +1,1 @@
+Algorytm sortowania01 - podzia³ na dwie grupy.

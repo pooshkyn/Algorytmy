@@ -1,0 +1,1 @@
+Algorytm Booyera-Moorea pokazuj¹cy indeks pierwszego wyst¹pienia wzorca w tekœcie 

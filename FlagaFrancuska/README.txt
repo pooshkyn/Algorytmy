@@ -1,0 +1,1 @@
+Sortowanie punktów za pomoc¹ flagi francuskiej i umiejscowanie ich w odpowiednich æwiartkach/osiach uk³adu wspó³rzêdnych
